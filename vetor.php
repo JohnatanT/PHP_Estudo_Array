@@ -11,6 +11,9 @@ $n = array(2,5,1);
 //Colocar o valor na ultima posição di meu vetor
 $n[] = 7;
 print_r($n);
+
+
+
 //Pode-se utilizar o RANGE também
 
 $c = range(5,20,5);
